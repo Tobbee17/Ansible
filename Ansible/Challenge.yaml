@@ -1,0 +1,14 @@
+---
+  - name: "Challenge answers"
+    hosts: localhost
+
+    tasks:
+
+      - name: "test rechability"
+        ping:
+
+
+      - name: "find module"
+        find:
+          path: ~/Challenges
+          file_type: file
