@@ -1,0 +1,7 @@
+---
+  - name: "Cisco Test"
+    hosts: Switch
+
+    tasks:
+
+    
